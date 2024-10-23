@@ -1,0 +1,6 @@
+C:\Users\E37041\Documents\ProjetoBanco-main\ProjetoBanco.Domain\bin\Debug\ProjetoBanco.Domain.dll
+C:\Users\E37041\Documents\ProjetoBanco-main\ProjetoBanco.Domain\bin\Debug\ProjetoBanco.Domain.pdb
+C:\Users\E37041\Documents\ProjetoBanco-main\ProjetoBanco.Domain\obj\Debug\ProjetoBanco.Domain.csprojAssemblyReference.cache
+C:\Users\E37041\Documents\ProjetoBanco-main\ProjetoBanco.Domain\obj\Debug\ProjetoBanco.Domain.csproj.CoreCompileInputs.cache
+C:\Users\E37041\Documents\ProjetoBanco-main\ProjetoBanco.Domain\obj\Debug\ProjetoBanco.Domain.dll
+C:\Users\E37041\Documents\ProjetoBanco-main\ProjetoBanco.Domain\obj\Debug\ProjetoBanco.Domain.pdb
